@@ -1,12 +1,12 @@
-📚 AluraBooks - Catálogo de Livros Interativo
+# 📚 AluraBooks - Catálogo de Livros Interativo
 
 
 
-📖 Sobre o Projeto
+## 📖 Sobre o Projeto
 
 AluraBooks é um catálogo interativo de livros que permite visualizar, filtrar e ordenar livros por categoria e disponibilidade. Ele busca dados de um endpoint externo e aplica funcionalidades como descontos e exibição dinâmica dos livros.
 
-🚀 Funcionalidades
+## 🚀 Funcionalidades
 
 ✅ Buscar Livros: Obtém a lista de livros de um endpoint externo.
 ✅ Filtragem: Permite filtrar livros por categoria e disponibilidade.
@@ -14,7 +14,7 @@ AluraBooks é um catálogo interativo de livros que permite visualizar, filtrar 
 ✅ Cálculo de Desconto: Aplica um desconto de 30% aos preços dos livros.
 ✅ Exibição Dinâmica: Atualiza a interface conforme os filtros e ordenações aplicados.
 
-🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 HTML5: Estrutura do site.
 
@@ -22,7 +22,7 @@ CSS3: Estilização e layout responsivo.
 
 JavaScript: Manipulação da DOM e interação com a API.
 
-📂 Estrutura do Projeto
+## 📂 Estrutura do Projeto
 
 AluraBooks/
 │── app/
@@ -36,15 +36,15 @@ AluraBooks/
 │── style.css
 │── README.md
 
-🎯 Como Executar o Projeto
+## 🎯 Como Executar o Projeto
 
-Clone o repositório:
+### Clone o repositório:
 
 git clone https://github.com/seu-usuario/AluraBooks.git
 
 Abra o arquivo index.html em um navegador.
 
-🎮 Como Utilizar
+## 🎮 Como Utilizar
 
 Filtrar Livros: Escolha uma categoria no menu para visualizar os livros disponíveis.
 
@@ -52,6 +52,6 @@ Ordenar por Preço: Clique no botão "ORDENAR POR PREÇO" para organizar os livr
 
 Ver Disponíveis: Clique em "LIVROS DISPONÍVEIS" para visualizar apenas os livros em estoque.
 
-🌐 API
+## 🌐 API
 
-🔗 Endpoint: https://guilhermeonrails.github.io/casadocodigo/livros.json
+### 🔗 Endpoint: https://guilhermeonrails.github.io/casadocodigo/livros.json
